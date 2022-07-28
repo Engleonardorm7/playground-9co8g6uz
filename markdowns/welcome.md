@@ -4,7 +4,11 @@ This C++ template lets you get started quickly with a simple working example usi
 
 
 The source code is on [GitHub](https://github.com/TechDotIO/cpp-template), please feel free to come up with proposals to improve it.
-
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[x] learn and be happy
+-[ ] Easy, this is 42
+-[ ] Peace & Love
 # Hands-on Demo
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["src/Exercises/Universe.cpp"],"command": "sh /project/target/run.sh"})

@@ -8,8 +8,3 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[x] learn and be happy
--[ ] Easy, this is 42
--[ ] Peace & Love
